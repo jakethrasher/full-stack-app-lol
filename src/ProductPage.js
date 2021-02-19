@@ -1,5 +1,4 @@
 
-import { findByLabelText } from '@testing-library/react'
 import React, { Component } from 'react'
 import request from 'superagent'
 import './App.css'
